@@ -19,6 +19,6 @@ I'm 17, just a french dude programming.
 
 ![fuka-g's profile views](https://komarev.com/ghpvc/?username=fuka-g&color=lightgrey)
 
-[![fuka-g's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuka-g&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![fuka-g's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuka-g&show_icons=true&theme=synthwave&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![fuka-g's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fuka_g&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![fuka-g's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fuka_g&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
