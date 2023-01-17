@@ -23,3 +23,5 @@ They may be have become a bit old now, but I might go back on them to polish the
 ## Contact
 
 Go [here](https://zekefeu.github.io/about/) to see an updated list of my contact methods.
+
+*never trust the green squares*
